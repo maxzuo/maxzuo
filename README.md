@@ -17,6 +17,7 @@ I'm always looking to collaborate on research projects!
 
 ### Stats
 <span>
+<a href="https://github.com/maxzuo">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/?username=maxzuo&theme=dark&show_icons=true&hide_rank=true&icon_color=FF00F7&hide_title=true&line_height=22"
@@ -28,6 +29,8 @@ I'm always looking to collaborate on research projects!
     />
     <img src="https://github-readme-stats.vercel.app/api/?username=maxzuo&show_icons=true&hide_rank=true&icon_color=FF00F7&hide_title=true&line_height=22" />
   </picture>
+</a>
+<a href="https://stackoverflow.com/users/7871685/m-z">
   <picture>
     <source
       srcset="https://readme-components-theta.vercel.app/api?component=stackoverflow&stackoverflowid=7871685&theme=dark&fill=linear-gradient%2830deg%2C%20%2300A8B6%200%25%2C%20%23FF00F7%20100%25%29%3B%0A&shadow=none&margin=0"
@@ -39,4 +42,5 @@ I'm always looking to collaborate on research projects!
     />
     <img src="https://readme-components-theta.vercel.app/api?component=stackoverflow&stackoverflowid=7871685&fill=linear-gradient%2830deg%2C%20%2300A8B6%200%25%2C%20%23FF00F7%20100%25%29%3B%0A&shadow=none&margin=0" />
   </picture>
+</a>
 </span>
