@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Max, a Ph.D. student at Brown, co-advised by [Michael Littman](https://www.littmania.com/) and [Steve Bach](https://cs.brown.edu/people/sbach/). I'm interested in machine learning, natural language processing, and reinforcement learning.
 
-<!--
-**maxzuo/maxzuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always looking to collaborate on research projects!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+🔭 My current research projects:
+- Mixture of Experts
+<!-- 🐰🥚: ProMoDE, ZoE -->
+- Better In-Context Learning
+<!-- 🐰🥚: new PEFT? -->
+
+📜 Projects I've worked on in the past:
+- [Planetarium🪐](https://github.com/BatsResearch/planetarium): A Rigorous Benchmark for Translating Text to Structured Planning Languages
+
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api/?username=maxzuo&theme=dark&show_icons=true">
+<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7871685&theme=dark&fill=linear-gradient%2830deg%2C%20%2300A8B6%200%25%2C%20%23FF00F7%20100%25%29%3B%0A">
