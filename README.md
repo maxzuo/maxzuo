@@ -16,5 +16,4 @@ I'm always looking to collaborate on research projects!
 
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/?username=maxzuo&theme=dark&show_icons=true">
-<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7871685&theme=dark&fill=linear-gradient%2830deg%2C%20%2300A8B6%200%25%2C%20%23FF00F7%20100%25%29%3B%0A">
+<img src="https://github-readme-stats.vercel.app/api/?username=maxzuo&theme=dark&show_icons=true"><img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7871685&theme=dark&fill=linear-gradient%2830deg%2C%20%2300A8B6%200%25%2C%20%23FF00F7%20100%25%29%3B%0A">
