@@ -8,8 +8,7 @@ I'm always looking to collaborate on research projects!
 🔭 My current research projects:
 - Mixture of Experts
 <!-- 🐰🥚: ProMoDE, ZoE -->
-- Better In-Context Learning
-<!-- 🐰🥚: new PEFT? -->
+- Messing with R1
 
 📜 Projects I've worked on in the past:
 - [Planetarium🪐](https://github.com/BatsResearch/planetarium): A Rigorous Benchmark for Translating Text to Structured Planning Languages
